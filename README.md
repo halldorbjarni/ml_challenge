@@ -6,5 +6,7 @@ I ran into a few problems with training taking very long for some input images. 
 
 The link to the 10 adversarial images can be found [here](https://github.com/halldorbjarni/ml_challenge/blob/master/adversarial_examples.png).
 
+To reproduce my results spin up a jupyter notebook and execute the cells in the IPython notebook.
+
 
 
