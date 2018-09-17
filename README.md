@@ -4,6 +4,7 @@ Overall this was a very fun challenge. My approach was based on a blog post ([li
 
 I ran into a few problems with training taking very long for some input images. I tried using momentum gradient descent to speed things up and that helped (after playing around with the learning rate). It however only became fast once the momentum was bigger than 1 which is not how it should be used since you just snowball in one direction, oblivious to any change. I'm actually quite curious why some input examples behave like that.
 
+The link to the 10 adversarial images can be found [here](https://github.com/halldorbjarni/ml_challenge/blob/master/adversarial_examples.png).
 
 
 
